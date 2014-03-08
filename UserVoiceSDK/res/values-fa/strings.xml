@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <plurals name="uv_comments">
+        <item quantity="one">نظر</item>
+        <item quantity="other">نظرات</item>
+    </plurals>
+    <plurals name="uv_subscribers">
+        <item quantity="one">عضو</item>
+        <item quantity="other">اعضا</item>
+    </plurals>
+    <plurals name="uv_articles">
+        <item quantity="one">مقاله</item>
+        <item quantity="other">مقالات</item>
+    </plurals>
+    <plurals name="uv_ideas">
+        <item quantity="one">ایده</item>
+        <item quantity="other">ایده ها</item>
+    </plurals>
+    <plurals name="uv_people">
+        <item quantity="one">فرد</item>
+        <item quantity="other">افراد</item>
+    </plurals>
+    <plurals name="uv_number_of_subscribers_format">
+        <item quantity="one"> %1$s فرد استقبال کننده از این ایده </item>
+        <item quantity="other">%1$s افراد استفاده کننده از این ایده</item>
+    </plurals>
+
+    <string name="uv_loading">&#8230;در حال بار گذاری</string>
+    <string name="uv_submit_idea">تقدیم ایده</string>
+    <string name="uv_idea_form_title">پیشنهاد یک ایده</string>
+    <string name="uv_menu_search">جستجو</string>
+    <string name="uv_email_address">ایمیل</string>
+    <string name="uv_email_address_hint">your@email.com (لازم)</string>
+    <string name="uv_display_name">نام نمایش داده شده</string>
+    <string name="uv_password">رمز عبور</string>
+    <string name="uv_forgot_password">فراموشی رمز عبور</string>
+    <string name="uv_msg_comment_posted">نظر شما پست شد</string>
+    <string name="uv_title_idea">ایده</string>
+    <string name="uv_posted_by_format">Posted by %1$s on %2$s</string>
+    <string name="uv_all_articles">همه ی مقالات</string>
+    <string name="uv_portal_title">راهنمایی</string>
+    <string name="uv_network_error">در اتصال به سرورهای  یوزر ویس خطا رخ داده است.</string>
+    <string name="uv_signin_dialog_title">ورود کاربر</string>
+    <string name="uv_signin_dialog_ok">ورود کاربر</string>
+    <string name="uv_failed_signin_error">آدرس کاربر یا رمز عبور غلط است</string>
+    <string name="uv_msg_forgot_password">خطا در ارسال رمز عبور فراموش شده</string>
+    <string name="uv_subscribe_dialog_title">عضویت در این ایده</string>
+    <string name="uv_remove_votes">حذف رای ها</string>
+    <string name="uv_feedback_forum">تالار فیدبک</string>
+    <string name="uv_knowledge_base">پایگاه اطلاعات</string>
+    <string name="uv_admin_response_format"> %1$s پاسخ مدیر سیستم</string>
+    <string name="uv_post_comment">ارسال نظر</string>
+    <string name="uv_next">بعدی</string>
+    <string name="uv_none_of_these_help">هیچ کدام از این ها، کمک کننده نیست.</string>
+    <string name="uv_send_message">ارسال پیام</string>
+    <string name="uv_your_email_address">آدرس ایمیل شما</string>
+    <string name="uv_your_name">نام شما</string>
+    <string name="uv_name_hint">بی نام</string>
+    <string name="uv_select_one">انتخاب یکی</string>
+    <string name="uv_value">اعتبار</string>
+    <string name="uv_article">مقاله</string>
+    <string name="uv_idea">نظر</string>
+    <string name="uv_msg_ticket_created">پیام شما ارسال شد</string>
+    <string name="uv_msg_idea_created">ایده ی شما ایجاد شد</string>
+    <string name="uv_article_instant_answer_question">آیا این مقاله مفید بود؟</string>
+    <string name="uv_suggestion_instant_answer_question">آیا این ایده مفید بود؟</string>
+    <string name="uv_no">خیر</string>
+    <string name="uv_yes">بله</string>
+    <string name="uv_very_yes">بله!</string>
+    <string name="uv_helpful_article_message_question">آیا همچنان می خواین پیام ارسال کنید؟</string>
+    <string name="uv_unhelpful_article_message_question">آیا میخواین به ما پیام بفرستین؟</string>
+    <string name="uv_idea_description_heading">ایده تونو با جزئیات بیشتری ذکر کنید.</string>
+    <string name="uv_category">دسته</string>
+    <string name="uv_idea_description_hint">(انتخاب)</string>
+    <string name="uv_idea_text_heading">&#8230;به شما توصیه می کنم که </string>
+    <string name="uv_idea_text_hint">&#8230;ایده ی خود را وارد کنید </string>
+    <string name="uv_idea_form_help">زمانیکه شما یک ایده ارسال می کنید، دیگران قادر به عضویت در بحث یا ارسال نظرات هستند.زمانیکه ما جواب ایده رو میدیم، شما خبردار خواهید شد.</string>
+    <string name="uv_contact_us">تماس با ما</string>
+    <string name="uv_close">بستن</string>
+    <string name="uv_new_comment">نظر جدید</string>
+    <string name="uv_error">خطا</string>
+    <string name="uv_msg_user_identity_validation">لطفا آدرس ایمیل خود را وارد نمائید</string>
+    <string name="uv_status_format"> %1$s وضعیت:</string>
+    <string name="uv_subscribe">عضویت</string>
+    <string name="uv_nevermind">بی خیال</string>
+    <string name="uv_msg_subscribe">به محض اینکه خبری شد، با شما تماس گرفته خواهد شد.</string>
+    <string name="uv_msg_subscribe_success">شما عضو این ایده شدید</string>
+    <string name="uv_msg_unsubscribe">عضویت شما از این ایده لغو شد</string>
+    <string name="uv_msg_custom_fields_validation">لطفا همه ی فیلد های لازم را پر کنید</string>
+    <string name="uv_contact_hint">لطفا سوال یا ایده خود را وارد کنید.</string>
+    <string name="uv_matching_ideas">ایده های مچ شده</string>
+    <string name="uv_matching_articles">مقالات مچ شده</string>
+    <string name="uv_matching_articles_and_ideas">مقالات و ایده های مچ شده</string>
+    <string name="uv_post_idea_continue_button">من همچنان تمایل به ارسال نظرم دارم</string>
+    <string name="uv_contact_continue_button">من همچنان می خوام که یک نظر ارسال کنم</string>
+    <string name="uv_i_want_this">اینو میخوام!</string>
+    <string name="uv_post_a_comment">ارسال نظر</string>
+    <string name="uv_all_results_filter">همه</string>
+    <string name="uv_articles_filter">مقالات</string>
+    <string name="uv_ideas_filter">ایده ها</string>
+    <string name="uv_comment_hint">نظر خود را وارد نمائید</string>
+    <string name="uv_cancel">کنسل</string>
+    <string name="uv_select_none">(هیچ کدام)</string>
+    <string name="uv_confirm">تایید</string>
+    <string name="uv_msg_confirm_discard_idea">آیا مطمئن هستید که می خواین ایده تون رو لغو کنید؟</string>
+    <string name="uv_msg_confirm_discard_message">آیا مطمئن هستین که می خواین مقالتون رو لغو کنید؟</string>
+    <string name="uv_post_an_idea">یک ایده ارسال کنید</string>
+    <string name="uv_password_dialog_title">لطفا رمز عبور خود را وارد کنید</string>
+    <string name="uv_article_browse_question">آیا این مقاله مفید بود؟</string>
+    <string name="uv_thanks">ممنونم!</string>
+    <string name="uv_powered_by_uservoice">Powered by UserVoice</string>
+    <string name="uv_android_sdk">Android SDK</string>
+
+</resources>
